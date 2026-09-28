@@ -14,7 +14,15 @@ LOCAL_OVERRIDES_PACKAGES := \
 	Starmoment \
     Updater \
 	Via \
-    Twelve
+    Twelve \
+    DevicePolicyPrebuilt-v10334460 \
+    LocationHistoryPrebuilt \
+    Maps \
+    PrebuiltGmail \
+    AndroidAutoStubPrebuilt \
+    FilesPrebuilt \
+    GoogleRestorePrebuilt-v842048 \
+    SafetyHubPrebuilt \
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
